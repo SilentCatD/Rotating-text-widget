@@ -1,4 +1,4 @@
-# temp
+# Rotating Text
 
 Widget for vertically rotate text
 
