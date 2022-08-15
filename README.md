@@ -1,6 +1,6 @@
 # temp
 
-A new Flutter project.
+Widget for vertically rotate text
 
 ## Getting Started
 
